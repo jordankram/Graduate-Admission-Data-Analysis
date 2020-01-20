@@ -1,4 +1,4 @@
-# Project Title
+# Graduate Admission Data Analysis
 
 For this project, I analyzed a dataset of 400 graduate applicants to determine attributes most highly correlated with expected admission. I created a linear regression model using Python and checked p-value, residuals, and error measurements. In the conclusion section, I highlighted three attributes most closely correlated with admission, and specified future areas of research and implications.
 
