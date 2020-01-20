@@ -13,3 +13,7 @@ To view report, simply click on the file called Graduate Admission Data Analysis
 
 ## Authors
 * **Jordan Kramer** - *Intial work* - [jordankram](https://github.com/jordankram)
+
+## Acknowledgments
+
+* Thanks to Mohan S Acharya for collecting the dataset and sharing it on Kaggle (https://www.kaggle.com/mohansacharya/graduate-admissions/discussion)
